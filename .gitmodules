@@ -1,0 +1,12 @@
+[submodule "external/bgfx"]
+	path = external/bgfx
+	url = git@github.com:bkaradzic/bgfx.git
+[submodule "external/bx"]
+	path = external/bx
+	url = git@github.com:bkaradzic/bx.git
+[submodule "external/bimg"]
+	path = external/bimg
+	url = git@github.com:bkaradzic/bimg.git
+[submodule "external/imgui-lib/imgui"]
+	path = external/imgui-lib/imgui
+	url = git@github.com:ocornut/imgui.git
